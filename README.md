@@ -1,5 +1,5 @@
 # slackware_15
-Hardened Slackware 15 secure partitioning, iptables for client and bind mount with QEMU 6.2.0
+Hardened Slackware 15 secure partitioning, iptables for client and bind mount with QEMU 6.2.0, VLC, Carla (VST plugins host), and Reaper
 
 
 
