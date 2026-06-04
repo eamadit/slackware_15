@@ -8,7 +8,7 @@ HUMAN READABLE VERSION:
 
 https://eamadit.blogspot.com/2026/04/eamadit-hardened-slackware-15.html
 
-
+THINK OF REMOVING slackpkg to avoid destroying your work
 
 
 
