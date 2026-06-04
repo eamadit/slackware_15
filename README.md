@@ -4,7 +4,7 @@ Hardened Slackware 15 secure partitioning, iptables for client and bind mount wi
 
 
 
-HUMAN READABLE VERSION:
+HUMAN READABLE VERSION (THINK OF REMOVING slackpkg to avoid destroying your work):
 
 https://eamadit.blogspot.com/2026/04/eamadit-hardened-slackware-15.html
 
