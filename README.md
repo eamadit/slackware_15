@@ -1,3 +1,13 @@
+UPDATE: creating /var/tmp and /dev/shm partitions is useless, new version in progress:
+
+
+
+
+https://mantellapical.blogspot.com/2026/11/eamadit-hardened-slackware-15.html
+
+
+
+
 # slackware_15
 Hardened Slackware 15 secure partitioning, iptables for client and bind mount with QEMU 6.2.0, VLC, Carla (VST plugins host), and Reaper
 
