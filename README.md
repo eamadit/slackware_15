@@ -40,9 +40,9 @@ cfdisk /dev/nvme0n1
 
 3 /tmp 8GB nosuid,nodev,noexec
 
-4 /var/tmp 8GB nosuid,nodev,noexec
+###4 /var/tmp 8GB nosuid,nodev,noexec
 
-5 /dev/shm 8GB rw,nosuid,nodev,noexec 0 0
+###5 /dev/shm 8GB rw,nosuid,nodev,noexec 0 0
 
 6 /var 512MB
 
